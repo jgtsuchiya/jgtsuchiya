@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 👋
 
 <!--
 **jgtsuchiya/jgtsuchiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Movido pela paixão por tecnologia, fiz uma transição de carreira da Engenharia Ambiental  para o desenvolvimento de software há mais de um ano. Hoje, atuo como Desenvolvedor Júnior , construindo soluções web e mobile com um stack que inclui: Java, Kotlin, Typescript, React e ReactNative. 
+
+Atualmente, aprofundo meus conhecimentos na graduação em Ciência da Computação na UTFPR. Acredito que minha perspectiva única, que une o pensamento analítico da engenharia com a lógica da programação, é meu grande diferencial para entregar resultados criativos e eficientes.
+
+---
